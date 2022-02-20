@@ -1,0 +1,29 @@
+.container{
+    max-width: 100%;
+    display: flex;
+    flex-direction: row;
+    /* position: relative;
+    left: 100vh;
+    top: 40px; */
+    background-color: rgb(190, 190, 255);
+}
+.suffix{
+    width: 60%;
+    padding-top: 20vh;
+    padding-left: 20vh;
+}
+#suffix{
+    font-weight: bold;
+    color: purple;
+    /* inline-size: 1.23rem; */
+    line-height: 1.53em;
+}
+#suffix-rai{
+    color: rgb(255, 166, 0);
+}
+.sub-suffix{
+    margin-top: 50px;
+    width: 70%;
+    font-size: 20px;
+    color: purple;
+}
