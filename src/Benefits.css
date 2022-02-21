@@ -84,723 +84,698 @@
   color: #513164;
 }
 .perks {
-    position: absolute;
-width: 344px;
-height: 95px;
-left: 96px;
-top: 2213px;
+  position: absolute;
+  width: 344px;
+  height: 95px;
+  left: 96px;
+  top: 2213px;
 
-font-family: PT Sans Caption;
-font-style: normal;
-font-weight: bold;
-font-size: 28px;
-line-height: 95px;
-/* identical to box height, or 339% */
+  font-family: PT Sans Caption;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 95px;
+  /* identical to box height, or 339% */
 
+  /* Purple ( Alphabets color ) */
 
-/* Purple ( Alphabets color ) */
-
-color: #513164;
-
+  color: #513164;
 }
 .poks {
-    position: absolute;
-width: 864px;
-height: 120px;
-left: 96px;
-top: 2300px;
+  position: absolute;
+  width: 864px;
+  height: 120px;
+  left: 96px;
+  top: 2300px;
 
-font-family: PT Sans Caption;
-font-style: normal;
-font-weight: normal;
-font-size: 24px;
-line-height: 40px;
-/* or 167% */
+  font-family: PT Sans Caption;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 40px;
+  /* or 167% */
 
+  /* Purple ( Alphabets color ) */
 
-/* Purple ( Alphabets color ) */
-
-color: #513164;
-
+  color: #513164;
 }
 
-.advantage{
-    position: absolute;
-width: 344px;
-height: 95px;
-left: 500px;
-top: 1885px;
+.advantage {
+  position: absolute;
+  width: 344px;
+  height: 95px;
+  left: 500px;
+  top: 1885px;
 
-font-family: PT Sans Caption;
-font-style: normal;
-font-weight: bold;
-font-size: 28px;
-line-height: 95px;
-/* identical to box height, or 339% */
+  font-family: PT Sans Caption;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 95px;
+  /* identical to box height, or 339% */
 
+  /* Purple ( Alphabets color ) */
 
-/* Purple ( Alphabets color ) */
-
-color: #513164;
-
+  color: #513164;
 }
-.adva-text{
-    position: absolute;
-width: 864px;
-height: 120px;
-left: 500px;
-top: 1972px;
+.adva-text {
+  position: absolute;
+  width: 864px;
+  height: 120px;
+  left: 500px;
+  top: 1972px;
 
-font-family: PT Sans Caption;
-font-style: normal;
-font-weight: normal;
-font-size: 24px;
-line-height: 40px;
-/* or 167% */
+  font-family: PT Sans Caption;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 40px;
+  /* or 167% */
 
+  /* Purple ( Alphabets color ) */
 
-/* Purple ( Alphabets color ) */
-
-color: #513164;
-
+  color: #513164;
 }
 
-.hexa-card{
-    position: absolute;
-width: 100%;
-height: 1103.5px;
-left: 1.5px;
-top: 2473.5px;
+.hexa-card {
+  position: absolute;
+  width: 100%;
+  height: 1103.5px;
+  left: 1.5px;
+  top: 2473.5px;
 
-background: rgba(166, 191, 255, 0.25);
+  background: rgba(166, 191, 255, 0.25);
 }
-.need{
-    position: absolute;
-width: 52px;
-height: 95px;
-left: 676px;
-top: 2535px;
+.need {
+  position: absolute;
+  width: 52px;
+  height: 95px;
+  left: 676px;
+  top: 2535px;
 
-font-family: PT Sans Caption;
-font-style: normal;
-font-weight: normal;
-font-size: 18px;
-line-height: 95px;
-/* identical to box height, or 528% */
+  font-family: PT Sans Caption;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 95px;
+  /* identical to box height, or 528% */
 
+  /* Accent Color */
 
-/* Accent Color */
-
-color: #FF9041;
+  color: #ff9041;
 }
-.why{
-    position: absolute;
-    width: 888px;
-    height: 95px;
-    left: 265px;
-    top: 2586px;
-    font-family: PT Sans Caption;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 42px;
-    line-height: 95px;
-    color: #513164;
+.why {
+  position: absolute;
+  width: 888px;
+  height: 95px;
+  left: 265px;
+  top: 2586px;
+  font-family: PT Sans Caption;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 42px;
+  line-height: 95px;
+  color: #513164;
 }
-.box{
-    background: #2D4FA8;
-border-radius: 20px;
-}
-
-.box1{
-    position: absolute;
-width: 288px;
-height: 288px;
-left: 200px;
-top: 2784px;
-}
-.box2{
-    position: absolute;
-width: 288px;
-height: 288px;
-left: 576px;
-top: 2784px;
-}
-.box3{
-    position: absolute;
-width: 288px;
-height: 288px;
-left: 952px;
-top: 2784px;
-
-}
-.box4{
-    position: absolute;
-width: 288px;
-height: 288px;
-left: 200px;
-top: 3152px;
-}
-.box5{
-    position: absolute;
-width: 288px;
-height: 288px;
-left: 576px;
-top: 3152px;
-
-}
-.box6{
-    position: absolute;
-width: 288px;
-height: 288px;
-left: 952px;
-top: 3152px;
-}
-.box1-h{
-    position: absolute;
-width: 108px;
-height: 40px;
-left: 286px;
-top: 2840px;
-
-font-family: Roboto;
-font-style: normal;
-font-weight: 600;
-font-size: 100px;
-line-height: 40px;
-/* identical to box height, or 40% */
-
-
-/* Accent Color */
-
-color: #FF9041;
+.box {
+  background: #2d4fa8;
+  border-radius: 20px;
 }
 
-.box2-h{position: absolute;
-    width: 189px;
-    height: 40px;
-    left: 632px;
-    top: 2840px;
-    
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 100px;
-    line-height: 40px;
-    /* identical to box height, or 40% */
-    
-    
-    /* Accent Color */
-    
-    color: #FF9041;}
-.box3-h{position: absolute;
-    width: 131px;
-    height: 40px;
-    left: 1034px;
-    top: 2840px;
-    
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 100px;
-    line-height: 40px;
-    /* identical to box height, or 40% */
-    
-    
-    /* Accent Color */
-    
-    color: #FF9041;
-    }
-.box4-h{position: absolute;
-    width: 245px;
-    height: 43px;
-    left: 259px;
-    top: 3205px;
-    
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 100px;
-    line-height: 40px;
-    /* or 40% */
-    
-    
-    /* Accent Color */
-    
-    color: #FF9041;
-    }
-.box5-h{position: absolute;
-    width: 245px;
-    height: 43px;
-    left: 625px;
-    top: 3205px;
-    
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 100px;
-    line-height: 40px;
-    /* or 40% */
-    
-    
-    /* Accent Color */
-    
-    color: #FF9041;
-    }
-.box6-h{position: absolute;
-    width: 245px;
-    height: 43px;
-    left: 1003px;
-    top: 3205px;
-    
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 100px;
-    line-height: 40px;
-    /* or 40% */
-    
-    
-    /* Accent Color */
-    
-    color: #FF9041;
-    }
-.box1-h2{position: absolute;
-    width: 203px;
-    height: 80px;
-    left: 246px;
-    top: 2940px;
-    
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 36px;
-    line-height: 40px;
-    /* or 111% */
-    
-    
-    color: #FFFFFF;
-    }
-.box2-h2{/* Increased Participation */
-
-    position: absolute;
-    width: 208px;
-    height: 80px;
-    left: 617px;
-    top: 2940px;
-    
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 30px;
-    line-height: 40px;
-    /* or 111% */
-    
-    color: #FFFFFF;
-    
-    }
-.box3-h2{/* Reduced Absenteeism */
-
-    position: absolute;
-    width: 213px;
-    height: 80px;
-    left: 993px;
-    top: 2940px;
-    
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 36px;
-    line-height: 40px;
-    /* or 111% */
-    
-    color: #FFFFFF;
-    
-    }
-.box4-h2{/* Incresed peer-to-peer recognition */
-
-    position: absolute;
-    width: 236px;
-    height: 120px;
-    left: 222px;
-    top: 3304px;
-    
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 32px;
-    line-height: 40px;
-    /* or 111% */
-    
-    color: #FFFFFF;
-    
-    }
-.box5-h2{/* Boost in work culture */
-
-    position: absolute;
-    width: 236px;
-    height: 80px;
-    left: 603px;
-    top: 3304px;
-    
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 36px;
-    line-height: 40px;
-    /* or 111% */
-    
-    color: #FFFFFF;
-    
-    }
-.box6-h2{/* Increase in Employee loyalty */
-
-    position: absolute;
-    width: 250px;
-    height: 120px;
-    left: 979px;
-    top: 3307px;
-    
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 36px;
-    line-height: 40px;
-    /* or 111% */
-    
-    color: #FFFFFF;
-    
-    }
-.partner{
-    /* OUR PARTENERS IN EXPANSION */
-
-position: absolute;
-width: 280px;
-height: 95px;
-left: 512px;
-top: 3655px;
-
-font-family: PT Sans Caption;
-font-style: normal;
-font-weight: normal;
-font-size: 17px;
-line-height: 95px;
-/* identical to box height, or 528% */
-text-align: center;
-
-/* Accent Color   */
-color: #FF9041;
-
-
+.box1 {
+  position: absolute;
+  width: 288px;
+  height: 288px;
+  left: 200px;
+  top: 2784px;
 }
-.runn{
-    /* Running successfully with 50+ Indian Companies */
-
-position: absolute;
-width: 1113px;
-height: 95px;
-left: 170px;
-top: 3709px;
-
-font-family: PT Sans Caption;
-font-style: normal;
-font-weight: bold;
-font-size: 35px;
-line-height: 95px;
-/* identical to box height, or 211% */
-
-/* Purple ( Alphabets color ) */
-color: #513164;
-
-
+.box2 {
+  position: absolute;
+  width: 288px;
+  height: 288px;
+  left: 576px;
+  top: 2784px;
 }
-.divider{
-    position: absolute;
-width: 1168px;
-height: 0px;
-left: 136px;
-top: 3997px;
-
-border: 9px solid rgba(0, 0, 0, 0.01);
+.box3 {
+  position: absolute;
+  width: 288px;
+  height: 288px;
+  left: 952px;
+  top: 2784px;
 }
-.vertical-divider1{
-    position: absolute;
-width: 248px;
-height: 0px;
-left: 164px;top: 3946px;
-
-border: 9px solid rgba(0, 0, 0, 0.03);
-transform: rotate(90deg);
-}.vertical-divider2{
-    /* Line 121 */
-
-position: absolute;
-width: 248px;
-height: 0px;
-left: 437px;
-top: 3946px;
-border: 9px solid rgba(0, 0, 0, 0.03);
-transform: rotate(90deg);
-
-}.vertical-divider3{
-    /* Line 122 */
-
-position: absolute;
-width: 248px;
-height: 0px;
-left: 703px;
-top: 3946px;
-border: 9px solid rgba(0, 0, 0, 0.03);
-transform: rotate(90deg);
-
+.box4 {
+  position: absolute;
+  width: 288px;
+  height: 288px;
+  left: 200px;
+  top: 3152px;
 }
-.vertical-divider4{
-    /* Line 123 */
-
-position: absolute;
-width: 248px;
-height: 0px;
-left: 958px;
-top: 3946px;
-border: 9px solid rgba(0, 0, 0, 0.03);
-transform: rotate(90deg);
-
+.box5 {
+  position: absolute;
+  width: 288px;
+  height: 288px;
+  left: 576px;
+  top: 3152px;
 }
-.test{
-    /* TESTIMONIALS */
-
-position: absolute;
-width: 280px;
-height: 95px;
-left: 582px;
-top: 4195px;
-
-font-family: PT Sans Caption;
-font-style: normal;
-font-weight: normal;
-font-size: 18px;
-line-height: 95px;
-/* identical to box height, or 528% */
-text-align: center;
-
-/* Accent Color   */
-color: #FF9041;
+.box6 {
+  position: absolute;
+  width: 288px;
+  height: 288px;
+  left: 952px;
+  top: 3152px;
 }
-.testimonial{
-    /* Words from our customers */
+.box1-h {
+  position: absolute;
+  width: 108px;
+  height: 40px;
+  left: 286px;
+  top: 2840px;
 
-position: absolute;
-width: 595px;
-height: 95px;
-left: 424px;
-top: 4251px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 100px;
+  line-height: 40px;
+  /* identical to box height, or 40% */
 
-font-family: PT Sans Caption;
-font-style: normal;
-font-weight: bold;
-font-size: 40px;
-line-height: 95px;
-/* identical to box height, or 211% */
-text-align: center;
+  /* Accent Color */
 
-/* Purple ( Alphabets color ) */
-color: #513164;
-
-
+  color: #ff9041;
 }
-.monial-cont{
-    position: absolute;
-width: 100%;
-height: 480px;
-top: 4387px;
 
-background: rgba(166, 191, 255, 0.25);
+.box2-h {
+  position: absolute;
+  width: 189px;
+  height: 40px;
+  left: 632px;
+  top: 2840px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 100px;
+  line-height: 40px;
+  /* identical to box height, or 40% */
+
+  /* Accent Color */
+
+  color: #ff9041;
 }
-.monial-text{
-    /* “Great rewards and have a excellent customer service.” */
+.box3-h {
+  position: absolute;
+  width: 131px;
+  height: 40px;
+  left: 1034px;
+  top: 2840px;
 
-position: absolute;
-width: 670px;
-height: 246px;
-left: 381px;
-top: 4504px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 100px;
+  line-height: 40px;
+  /* identical to box height, or 40% */
 
-font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-font-size: 40px;
-line-height: 82px;
-/* or 171% */
-text-align: center;
-letter-spacing: 0.22em;
+  /* Accent Color */
 
-color: #000000;
-
-
+  color: #ff9041;
 }
-.band{
-    /* BRAND PARTNERS */
+.box4-h {
+  position: absolute;
+  width: 245px;
+  height: 43px;
+  left: 259px;
+  top: 3205px;
 
-position: absolute;
-width: 280px;
-height: 95px;
-left: 581px;
-top: 5025px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 100px;
+  line-height: 40px;
+  /* or 40% */
 
-font-family: PT Sans Caption;
-font-style: normal;
-font-weight: normal;
-font-size: 18px;
-line-height: 95px;
-/* identical to box height, or 528% */
-text-align: center;
+  /* Accent Color */
 
-/* Accent Color   */
-color: #FF9041;
-
-
+  color: #ff9041;
 }
-.bandman{
-    /* Providing best with 500+ Brand partners */
+.box5-h {
+  position: absolute;
+  width: 245px;
+  height: 43px;
+  left: 625px;
+  top: 3205px;
 
-position: absolute;
-width: 961px;
-height: 95px;
-left: 207px;
-top: 5081px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 100px;
+  line-height: 40px;
+  /* or 40% */
 
-font-family: PT Sans Caption;
-font-style: normal;
-font-weight: bold;
-font-size: 40px;
-line-height: 95px;
-/* identical to box height, or 211% */
-text-align: center;
+  /* Accent Color */
 
-/* Purple ( Alphabets color ) */
-color: #513164;
-
-
+  color: #ff9041;
 }
-.partners{
-    position: absolute;
-width: 1048px;
-height: 1006px;
-left: 196px;
-top: 5336px;
+.box6-h {
+  position: absolute;
+  width: 245px;
+  height: 43px;
+  left: 1003px;
+  top: 3205px;
 
-background: url(./svg/partners.svg);
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 100px;
+  line-height: 40px;
+  /* or 40% */
+
+  /* Accent Color */
+
+  color: #ff9041;
 }
-.footer{
-    position: absolute;
-width: 100%;
-height: 507px;
-/* left: 1446px; */
-top: 6624px;
+.box1-h2 {
+  position: absolute;
+  width: 203px;
+  height: 80px;
+  left: 246px;
+  top: 2940px;
 
-background: rgba(166, 191, 255, 0.33);
-transform: rotate(-180deg);
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 40px;
+  /* or 111% */
+
+  color: #ffffff;
 }
-.footer-comp{
-    /* EMPLOYEE PERK */
+.box2-h2 {
+  /* Increased Participation */
 
-/* Purple ( Alphabets color ) */
-/* EMPLOYEE PERK */
+  position: absolute;
+  width: 208px;
+  height: 80px;
+  left: 617px;
+  top: 2940px;
 
-position: absolute;
-    width: 318px;
-    height: 48px;
-    left: 113px;
-    top: 6740px;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 900;
-    font-size: 27px;
-    letter-spacing: 0.235em;
-    color: #513164;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 40px;
+  /* or 111% */
 
-
+  color: #ffffff;
 }
-#footer-logo{
-    position: absolute;
-    width: 53px;
-    height: 48px;
-    left: 46px;
-    top: 6737px;
+.box3-h2 {
+  /* Reduced Absenteeism */
+
+  position: absolute;
+  width: 213px;
+  height: 80px;
+  left: 993px;
+  top: 2940px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 40px;
+  /* or 111% */
+
+  color: #ffffff;
 }
-.footer-text{
-    /* We envision a world where employees are highly engaged and very happy at their work. Join us in our journey today! */
+.box4-h2 {
+  /* Incresed peer-to-peer recognition */
 
-    position: absolute;
-    width: 553px;
-    height: 95px;
-    left: 48px;
-    top: 6812px;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 19px;
-    line-height: 31px;
-    letter-spacing: 0.135em;
-    color: #000000;
+  position: absolute;
+  width: 236px;
+  height: 120px;
+  left: 222px;
+  top: 3304px;
 
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 40px;
+  /* or 111% */
+
+  color: #ffffff;
 }
-.startup{
-    position: absolute;
-    width: 208px;
-    height: 50px;
-    left: 57px;
-    top: 6930px;
+.box5-h2 {
+  /* Boost in work culture */
 
-background: url(./svg/startup.png);
+  position: absolute;
+  width: 236px;
+  height: 80px;
+  left: 603px;
+  top: 3304px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 40px;
+  /* or 111% */
+
+  color: #ffffff;
 }
-.download{
-    /* Download the App */
+.box6-h2 {
+  /* Increase in Employee loyalty */
 
-position: absolute;
-width: 284px;
-height: 95px;
-left: 876px;
-top: 6716px;
-font-family: PT Sans Caption;
-font-style: normal;
-font-weight: bold;
-font-size: 28px;
-line-height: 95px;
-text-align: center;
-color: #513164;
+  position: absolute;
+  width: 250px;
+  height: 120px;
+  left: 979px;
+  top: 3307px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 40px;
+  /* or 111% */
+
+  color: #ffffff;
 }
-.download-txt{
-    /* Takes just 30sec to download ! */
+.partner {
+  /* OUR PARTENERS IN EXPANSION */
 
-    position: absolute;
-    width: 323px;
-    height: 95px;
-    left: 858px;
-    top: 6774px;
-    font-family: PT Sans Caption;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 19px;
-    line-height: 95px;
-    text-align: center;
-    color: #513164;}
-.playstore{
-    position: absolute;
-    width: 210px;
-    height: 61px;
-    left: 1036px;
-    top: 6883px;
+  position: absolute;
+  width: 280px;
+  height: 95px;
+  left: 512px;
+  top: 3655px;
 
-background: url(./svg/playstore.svg);
-border-radius: 10px;
+  font-family: PT Sans Caption;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 95px;
+  /* identical to box height, or 528% */
+  text-align: center;
+
+  /* Accent Color   */
+  color: #ff9041;
 }
-.appstore{
-    position: absolute;
-    width: 204px;
-    height: 61px;
-    left: 741px;
-    top: 6883px;
+.runn {
+  /* Running successfully with 50+ Indian Companies */
 
-background: url(./svg/appstore.svg);
-border-radius: 10px;
+  position: absolute;
+  width: 1113px;
+  height: 95px;
+  left: 170px;
+  top: 3709px;
+
+  font-family: PT Sans Caption;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 35px;
+  line-height: 95px;
+  /* identical to box height, or 211% */
+
+  /* Purple ( Alphabets color ) */
+  color: #513164;
+}
+.divider {
+  position: absolute;
+  width: 1168px;
+  height: 0px;
+  left: 136px;
+  top: 3997px;
+
+  border: 9px solid rgba(0, 0, 0, 0.01);
+}
+.vertical-divider1 {
+  position: absolute;
+  width: 248px;
+  height: 0px;
+  left: 164px;
+  top: 3946px;
+
+  border: 9px solid rgba(0, 0, 0, 0.03);
+  transform: rotate(90deg);
+}
+.vertical-divider2 {
+  /* Line 121 */
+
+  position: absolute;
+  width: 248px;
+  height: 0px;
+  left: 437px;
+  top: 3946px;
+  border: 9px solid rgba(0, 0, 0, 0.03);
+  transform: rotate(90deg);
+}
+.vertical-divider3 {
+  /* Line 122 */
+
+  position: absolute;
+  width: 248px;
+  height: 0px;
+  left: 703px;
+  top: 3946px;
+  border: 9px solid rgba(0, 0, 0, 0.03);
+  transform: rotate(90deg);
+}
+.vertical-divider4 {
+  /* Line 123 */
+
+  position: absolute;
+  width: 248px;
+  height: 0px;
+  left: 958px;
+  top: 3946px;
+  border: 9px solid rgba(0, 0, 0, 0.03);
+  transform: rotate(90deg);
+}
+.test {
+  /* TESTIMONIALS */
+
+  position: absolute;
+  width: 280px;
+  height: 95px;
+  left: 582px;
+  top: 4195px;
+
+  font-family: PT Sans Caption;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 95px;
+  /* identical to box height, or 528% */
+  text-align: center;
+
+  /* Accent Color   */
+  color: #ff9041;
+}
+.testimonial {
+  /* Words from our customers */
+
+  position: absolute;
+  width: 595px;
+  height: 95px;
+  left: 424px;
+  top: 4251px;
+
+  font-family: PT Sans Caption;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 95px;
+  /* identical to box height, or 211% */
+  text-align: center;
+
+  /* Purple ( Alphabets color ) */
+  color: #513164;
+}
+.monial-cont {
+  position: absolute;
+  width: 100%;
+  height: 480px;
+  top: 4387px;
+
+  background: rgba(166, 191, 255, 0.25);
+}
+.monial-text {
+  /* “Great rewards and have a excellent customer service.” */
+
+  position: absolute;
+  width: 670px;
+  height: 246px;
+  left: 381px;
+  top: 4504px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 82px;
+  /* or 171% */
+  text-align: center;
+  letter-spacing: 0.22em;
+
+  color: #000000;
+}
+.band {
+  /* BRAND PARTNERS */
+
+  position: absolute;
+  width: 280px;
+  height: 95px;
+  left: 581px;
+  top: 5025px;
+
+  font-family: PT Sans Caption;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 95px;
+  /* identical to box height, or 528% */
+  text-align: center;
+
+  /* Accent Color   */
+  color: #ff9041;
+}
+.bandman {
+  /* Providing best with 500+ Brand partners */
+
+  position: absolute;
+  width: 961px;
+  height: 95px;
+  left: 207px;
+  top: 5081px;
+
+  font-family: PT Sans Caption;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 95px;
+  /* identical to box height, or 211% */
+  text-align: center;
+
+  /* Purple ( Alphabets color ) */
+  color: #513164;
+}
+.partners {
+  position: absolute;
+  width: 1048px;
+  height: 1006px;
+  left: 196px;
+  top: 5336px;
+
+  background: url(./svg/partners.svg);
+}
+.footer {
+  position: absolute;
+  width: 100%;
+  height: 507px;
+  /* left: 1446px; */
+  top: 6624px;
+
+  background: rgba(166, 191, 255, 0.33);
+  transform: rotate(-180deg);
+}
+.footer-comp {
+  /* EMPLOYEE PERK */
+
+  /* Purple ( Alphabets color ) */
+  /* EMPLOYEE PERK */
+
+  position: absolute;
+  width: 318px;
+  height: 48px;
+  left: 113px;
+  top: 6740px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 27px;
+  letter-spacing: 0.235em;
+  color: #513164;
+}
+#footer-logo {
+  position: absolute;
+  width: 53px;
+  height: 48px;
+  left: 46px;
+  top: 6737px;
+}
+.footer-text {
+  /* We envision a world where employees are highly engaged and very happy at their work. Join us in our journey today! */
+
+  position: absolute;
+  width: 553px;
+  height: 95px;
+  left: 48px;
+  top: 6812px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 19px;
+  line-height: 31px;
+  letter-spacing: 0.135em;
+  color: #000000;
+}
+.startup {
+  position: absolute;
+  width: 208px;
+  height: 50px;
+  left: 57px;
+  top: 6930px;
+
+  background: url(./svg/startup.png);
+}
+.download {
+  /* Download the App */
+
+  position: absolute;
+  width: 284px;
+  height: 95px;
+  left: 876px;
+  top: 6716px;
+  font-family: PT Sans Caption;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 95px;
+  text-align: center;
+  color: #513164;
+}
+.download-txt {
+  /* Takes just 30sec to download ! */
+
+  position: absolute;
+  width: 323px;
+  height: 95px;
+  left: 858px;
+  top: 6774px;
+  font-family: PT Sans Caption;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 19px;
+  line-height: 95px;
+  text-align: center;
+  color: #513164;
+}
+.playstore {
+  position: absolute;
+  width: 210px;
+  height: 61px;
+  left: 1036px;
+  top: 6883px;
+
+  background: url(./svg/playstore.svg);
+  border-radius: 10px;
+}
+.appstore {
+  position: absolute;
+  width: 204px;
+  height: 61px;
+  left: 741px;
+  top: 6883px;
+
+  background: url(./svg/appstore.svg);
+  border-radius: 10px;
 }
