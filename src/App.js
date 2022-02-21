@@ -8,15 +8,16 @@ import { BrowserRouter as Router, Switch, Route, Routes } from 'react-router-dom
 import { Aboutus } from './Components/Aboutus.js';
 import { Login } from './Components/Login.js';
 import { Singup } from './Components/Singup.js';
+import { Benifits } from './Components/Benifits.js';
 
 function App() {
 
   return (
     <>
       <Router>
-        <Header title='EMPLOYEE PERKS' searchBar={false} />
+        <Header title='EMPLOYEE PERKS' searchBar={true} />
         <Routes>
-          <Route path='/' exact element={<Presets />} />
+          <Route path='/' exact element={[<Presets />, <Benifits title="EMPLOYEE PERKS"/> ]} />
           <Route path='/pricing' element={<Pricing />} />
           <Route path='/aboutus' element={<Aboutus/>}/>
           <Route path='/login' element={<Login/>}/>
@@ -24,6 +25,7 @@ function App() {
         </Routes>
       </Router>
     </>
+    
   );
 }
 

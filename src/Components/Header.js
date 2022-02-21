@@ -42,12 +42,12 @@ export const Header = (props) => {
             </li>
             <Link to="/pricing" style={linkstyle}>
             <li className="nav-item">
-              <a className="nav-link" href="#">Pricing</a>
+              <a className="nav-link">Pricing</a>
             </li>
             </Link>
             <Link to="/aboutus" style={linkstyle}>
             <li className="nav-item">
-              <a className="nav-link" href="#">About Us</a>
+              <a className="nav-link">About Us</a>
             </li>
             </Link>
             <Link to="/login" style={linkstyle}>
