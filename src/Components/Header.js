@@ -17,7 +17,7 @@ export const Header = (props) => {
   return (
     <nav className="navbar  navbar-expand-lg sticky-top navbar-light bg-light">
       <div className="container-fluid mx-5">
-        <a className="navbar-brand" href="#"><img src={Logo} alt="" /> <Link to="/" style={linkstyle} >{props.title}</Link> 
+        <a className="navbar-brand"><img src={Logo} alt="" /> <Link to="/" style={linkstyle} >{props.title}</Link> 
         </a>
         <button className="navbar-toggler mynavtoggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>
